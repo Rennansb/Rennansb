@@ -23,8 +23,10 @@
 <div>
 </div>
 
- <center> <img align="right" alt="Rennan" height="100" width="180" src="https://i.stack.imgur.com/vXYLh.gif">
-</div></<center>
+ #
+
+ <img align="right" alt="Rennan" height="100" width="180" src="https://i.stack.imgur.com/vXYLh.gif">
+</div>
  
  #
  
