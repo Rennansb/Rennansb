@@ -19,12 +19,12 @@
   <img align="center" alt="Rennan" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Rennan" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Rennan" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-##
+
 <div>
 </div>
-##
-  <img align="right" alt="Rennan" height="100" width="180" src="https://i.stack.imgur.com/vXYLh.gif">
-</div>
+
+ <center> <img align="right" alt="Rennan" height="100" width="180" src="https://i.stack.imgur.com/vXYLh.gif">
+</div></<center>
  
  #
  
