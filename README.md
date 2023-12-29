@@ -3,8 +3,8 @@
 ## Olá!!!  Eu Sou Rennan Santos 😊
 
 
-- ✍ Estudante de Analise e Desenvolvimento de Sistemas
-- ✊ Desenvolvedor Mobile/Web
+- ✍ Formado em Analise e Desenvolvimento de Sistemas
+- ✊ Desenvolvedor Flutter Mobile
 - 🤓 Eterno Estudante
  ##
  
