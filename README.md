@@ -3,15 +3,17 @@
 ## Olá!!!  Eu Sou Rennan Santos 😊
 
 
-- ✍ Formado em Analise e Desenvolvimento de Sistemas
-- ✊ Desenvolvedor Flutter Mobile
-- 🤓 Eterno Estudante
+- ✍ Sou formado em Análise e Desenvolvimento de Sistemas, com uma sólida base em desenvolvimento mobile utilizando Flutter e Dart. Com experiência em criação de soluções modernas e escaláveis, estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
+
+Além de minha formação técnica, também possuo graduação em Gestão de Recursos Humanos, o que me proporciona uma abordagem estratégica na gestão de equipes e projetos. Atualmente, trabalho como supervisor, equilibrando responsabilidades de liderança com minha paixão pelo desenvolvimento mobile.
+
+Atualmente, conto com um nível básico de inglês e estou em constante aprendizado, buscando sempre evoluir e expandir meus conhecimentos. Nos momentos livres, dedico-me à escrita, uma forma de explorar a criatividade e expandir minhas habilidades de comunicação.
  ##
  
  
  <div>
   <a href="https://github.com/Rennansb">
-  <img height="130"  src="https://github-readme-stats.vercel.app/api?username=Rennansb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennansb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150"  src="https://github-readme-stats.vercel.app/api?username=Rennansb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennansb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  
