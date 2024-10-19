@@ -1,6 +1,6 @@
 
 
-## Olá!!!  Eu Sou Rennan Santos 😊
+## Olá!!!  Me chamo Rennan Santos 😊
 
 
 - ✍ Sou formado em Análise e Desenvolvimento de Sistemas, com uma sólida base em desenvolvimento mobile utilizando Flutter e Dart. Com experiência em criação de soluções modernas e escaláveis, estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
@@ -13,7 +13,7 @@
  
  <div>
   <a href="https://github.com/Rennansb">
-  <img height="150" width="200"  src="https://github-readme-stats.vercel.app/api?username=Rennansb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="150"  width="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennansb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150" width="500"  src="https://github-readme-stats.vercel.app/api?username=Rennansb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="150"  width="500"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennansb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  
